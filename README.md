@@ -1,5 +1,11 @@
 # Overview
 
+This repo will hold analysis I have performed myself, as well as collections of notes/references to interesting topics.
+
+Anything that is my own will be uploaded directly in PDF format.
+
+# Analysis
+
 This repo contains analysis I have written on malware samples obtained from the internet.
 
 No samples are provided here for download, although defanged links to the samples may be provided in papers.
